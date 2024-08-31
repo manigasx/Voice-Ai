@@ -1,3 +1,5 @@
+# By Manigasx
+
 import google.generativeai as genai
 import os
 from gtts import gTTS
@@ -16,7 +18,9 @@ model = genai.GenerativeModel('gemini-1.5-flash')
 def speak_and_print(text):
     tts = gTTS(text=text, lang='tr', slow=False)
     tts_fp = io.BytesIO()
+    
     tts.write_to_fp(tts_fp)
+    
     tts_fp.seek(0)
 
     audio = AudioSegment.from_file(tts_fp, format="mp3")
@@ -32,6 +36,7 @@ def speak_and_print(text):
 
 def listen_to_audio():
     recognizer = sr.Recognizer()
+    
     with sr.Microphone() as source:
         speak_and_print("Sizi Dinliyorum...")
         audio = recognizer.listen(source)
@@ -59,6 +64,7 @@ while True:
 
     print("\nYapay zeka tarafından oluşturulan metin:")
     speak_and_print(ai_response)
+    
 def dinle():
     while True:
         komut = input("Dinliyorum: ")
