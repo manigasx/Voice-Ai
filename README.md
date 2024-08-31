@@ -1,4 +1,4 @@
-# Sesli Yanıt ve Metin İşleme Uygulaması
+# Voice-Ai
 
 Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamasıdır. Kullanıcı sesli komutlar vererek uygulama ile etkileşimde bulunabilir ve yapay zeka destekli cevaplar alabilir. Uygulama, Google Generative AI API'si, Google Text-to-Speech (gTTS) ve ses tanıma teknolojilerini kullanarak kullanıcı deneyimini zenginleştirir.
 
