@@ -1,7 +1,5 @@
 # Sesli Yanıt ve Metin İşleme Uygulaması
 
-![Proje Görseli](https://i.pinimg.com/originals/e6/83/f2/e683f29e5eb2d87da457379948533a08.gif)
-
 ## Proje Açıklaması
 
 Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamasıdır. Kullanıcı sesli komutlar vererek uygulama ile etkileşimde bulunabilir ve yapay zeka destekli cevaplar alabilir. Proje, Google Generative AI API'si, Google Text-to-Speech (gTTS) ve ses tanıma teknolojilerini kullanarak kullanıcı deneyimini zenginleştirir. Uygulama, metin ve sesli yanıtları anlık olarak gösterir ve kullanıcı komutlarını gerçek zamanlı olarak işleyebilir.
@@ -30,3 +28,7 @@ Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamas
    ```bash
    git clone https://github.com/manigasx/Voice-Ai.git
    cd Voice-Ai.git
+
+
+<img src="![image](https://github.com/user-attachments/assets/069999b3-ac9d-4f41-ab7c-558b5cd44d47)
+" alt="Projenin Görseli" width="200" height="200">
