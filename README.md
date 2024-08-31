@@ -1,4 +1,4 @@
-# Sesli Yanıt ve Metin İşleme Uygulaması
+# Voice-Ai 🤖
 
 ## Proje Açıklaması
 
