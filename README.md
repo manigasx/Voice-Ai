@@ -29,6 +29,5 @@ Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamas
    git clone https://github.com/manigasx/Voice-Ai.git
    cd Voice-Ai.git
 
-
-<img src="![image](https://github.com/user-attachments/assets/069999b3-ac9d-4f41-ab7c-558b5cd44d47)
-" alt="Projenin Görseli" width="200" height="200">
+## Geliştiren
+- **Bu Projeyi Bizzat Manigasx Geliştirmiştir.**
